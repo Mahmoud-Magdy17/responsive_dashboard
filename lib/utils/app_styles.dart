@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 abstract class AppStyles {
+  // Regular 400 - Medium 500 - SemiBold 600 - Bold 700 
   static const TextStyle styleRegular12 = TextStyle(
     fontFamily: "Montserrat",
     fontSize: 12,
